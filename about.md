@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
+I am interested in a bunch of different things. This blog will hopefully be interesting to at least some people out there. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have degrees in hysics and computer science. My day job is with ACENET, a regional partner of Compute Canada, where I help faculty and grad students with computational problems. On the side, I used to write a column for Linux Journal and I currently write a column for Linux User & Developer. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[druid.bernard@gmail.com](mailto:druid.bernard@gmail.com)
