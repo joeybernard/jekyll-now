@@ -8,7 +8,7 @@ I am interested in a bunch of different things. This blog will hopefully be inte
 
 ### More Information
 
-I have degrees in physics and computer science. My day job is with ACENET, a regional partner of Compute Canada, where I help faculty and grad students with computational problems. On the side, I write a column for Linux Journal and also a column for Linux User & Developer. 
+I have degrees in physics and computer science. My day job is with the Radio Physics Lab in the Physics Department of UNB, where I help faculty and grad students with computational problems. On the side, I write a column for Linux Journal and also a column for Linux User & Developer. 
 
 ### Contact me
 
